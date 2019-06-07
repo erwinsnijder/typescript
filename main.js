@@ -1,4 +1,15 @@
 "use strict";
 exports.__esModule = true;
-var message = "Hello World";
+var message = "Goodbye Everybody";
 console.log(message);
+var sum;
+var title = 'tutorial';
+var isbeginner = true;
+var total = 0;
+var name = 'iets';
+var sentence = "dit wordt " + name + "\ndit is mijn eerste Typescript";
+console.log(sentence);
+var n = null;
+var u = undefined;
+var isNew = null;
+var Myname = undefined;
