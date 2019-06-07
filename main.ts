@@ -26,3 +26,17 @@ let person1: [string, number] = ['Bob', 22];
 enum Color{Red=5, Green,Blue};
 let c: Color = Color.Green;
 console.log(c);
+
+let randomvalue: unknown = 10;
+    randomvalue = true;
+    randomvalue = 'iets';
+
+    let a;
+    a = 10;
+    a = true;
+
+    let b = 20;
+
+    let multitype: number | boolean;
+    multitype = 20;
+    multitype = true;
